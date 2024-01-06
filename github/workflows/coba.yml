@@ -31,4 +31,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: pert11/learn-action:latest
+          tags: khoirul1111/learn-action:latest
